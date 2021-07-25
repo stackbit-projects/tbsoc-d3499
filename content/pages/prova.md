@@ -17,6 +17,7 @@ sections:
         arrow: false
         type: action
     type: hero_section
+    background_image: images/leaf.svg
 seo:
   title: ''
   description: ''
