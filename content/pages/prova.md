@@ -4,9 +4,6 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: JEFF KOONS X TBSOCIETY
-    type: header_section
-  - section_id: lorem-ipsum
     background_image_opacity: 90
     content: |
       ![](images/plant4-lg.jpg)
