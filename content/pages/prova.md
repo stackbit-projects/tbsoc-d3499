@@ -7,7 +7,7 @@ sections:
     headline: JEFF KOONS X TBSOCIETY
     type: header_section
   - section_id: lorem-ipsum
-    background_image_opacity: 20
+    background_image_opacity: 50
     content: |
       *   ![](images/plant4-lg.jpg)
     actions: []
