@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: DAI UN'OCCHIATA A QUESTA COLLAB.
+    headline: JEFF KOONS X TBSOCIETY
     type: header_section
 seo:
   title: ''
