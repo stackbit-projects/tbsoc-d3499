@@ -3,7 +3,7 @@ title: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: lorem-ipsum
+    headline: JEFF KOONS X TBAS
     subtitle: >-
       ## Lorem ipsum
 
