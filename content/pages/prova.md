@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     headline: JEFF KOONS X TBAS
     subtitle: |
-      *
+      Una speciale collab. 
     type: header_section
   - section_id: lorem-ipsum
     title: lorem-ipsum
