@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-page_css_class: 'JEFF KOONS X '
+page_css_class: JEFF KOONS X TBS
 white_header: false
 sections:
   - section_id: lorem-ipsum
