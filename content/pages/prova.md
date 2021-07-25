@@ -13,6 +13,7 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+    image: images/plant1-lg.jpg
 seo:
   title: ''
   description: ''
