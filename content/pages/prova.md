@@ -8,17 +8,8 @@ sections:
     type: header_section
   - section_id: lorem-ipsum
     background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *   ![](images/plant4-lg.jpg)
     actions: []
     type: hero_section
 seo:
