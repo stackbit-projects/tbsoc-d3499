@@ -10,7 +10,12 @@ sections:
     background_image_opacity: 50
     content: |
       *   ![](images/plant4-lg.jpg)
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
 seo:
   title: ''
