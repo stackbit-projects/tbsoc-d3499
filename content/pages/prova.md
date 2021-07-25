@@ -9,7 +9,7 @@ sections:
   - section_id: lorem-ipsum
     background_image_opacity: 90
     content: |
-      *   ![](images/plant4-lg.jpg)
+      ![](images/plant4-lg.jpg)
     actions:
       - title: lorem-ipsum
         url: '#'
