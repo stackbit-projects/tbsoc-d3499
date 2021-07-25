@@ -4,17 +4,6 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: '#'
-      style: primary
-      arrow: false
-      type: action
-    type: promotion_section
-    image: images/plant1-lg.jpg
-  - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
@@ -28,6 +17,17 @@ sections:
 
       - dolor sit amet
     type: header_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+      type: action
+    type: promotion_section
+    image: images/plant1-lg.jpg
 seo:
   title: ''
   description: ''
