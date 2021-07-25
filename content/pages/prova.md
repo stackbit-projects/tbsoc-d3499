@@ -17,6 +17,7 @@ sections:
 
       - dolor sit amet
     type: header_section
+    background_image: images/plant9.jpg
 seo:
   title: ''
   description: ''
